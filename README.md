@@ -12,7 +12,7 @@
 
 ---
 
-### 📡 `> ping juandiego`
+### 📡 `> ping juan`
 
 ```bash
 $ cat sobre_mi.txt
