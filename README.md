@@ -1,4 +1,4 @@
-### hola 👋
+### Hola 👋
 
 Soy **Juan**, estudiante de ciberseguridad. Ando aprendiendo lo básico: redes, Linux, algo de pentesting y scripting en Python cuando me acuerdo de la sintaxis.
 
