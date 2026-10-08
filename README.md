@@ -1,11 +1,11 @@
 ### hola 👋
 
-Soy **[tu nombre]**, estudiante de ciberseguridad. Ando aprendiendo lo básico: redes, Linux, algo de pentesting y scripting en Python cuando me acuerdo de la sintaxis.
+Soy **Juan**, estudiante de ciberseguridad. Ando aprendiendo lo básico: redes, Linux, algo de pentesting y scripting en Python cuando me acuerdo de la sintaxis.
 
 - 🔭 Ahora mismo trasteando con **TryHackMe / HTB** (voy por lo fácil, sin vergüenza)
 - 🌱 Aprendiendo: redes (por fin entendí subnetting), Bash y un poco de Python
 - 🐧 Uso Linux todos los días, todavía rompo cosas y las arreglo
-- 📫 Cómo contactarme: [tu correo o LinkedIn]
+- 📫 Cómo contactarme: juannggutiz@gmail.com
 
 ---
 
@@ -16,13 +16,6 @@ Soy **[tu nombre]**, estudiante de ciberseguridad. Ando aprendiendo lo básico: 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
----
-
-**Un par de cosas que hice:**
-
-- 🧪 Laboratorio casero con VirtualBox para practicar (Kali + Metasploitable)
-- 📝 Apuntes de mis prácticas en [repo de apuntes]
-- 🔐 Resolví algunas máquinas de THM (nada del otro mundo pero ahí van)
 
 ---
 
